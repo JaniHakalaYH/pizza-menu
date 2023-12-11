@@ -104,7 +104,7 @@ function Footer() {
 
   //if (hour >= openHour && hour <= closeHour) alert("We're currently open!");
   //else alert("Sorry we're closed");
-
+  //comment to commit again
   return (
     <footer className="footer">
       {isOpen && (
